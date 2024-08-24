@@ -11,4 +11,4 @@
 
 [Результат тестового прогона 24.08.2024](https://app.qase.io/run/G8/dashboard/75#test-cases) 
 
-[Результат тестового прогона 24.08.2024 в PDF-формате](https://github.com/asavv1n/docs/blob/f4afba1c559b2b912493175c9adde31b103207ed/%D0%A2%D0%B5%D1%81%D1%82%20%D0%BA%D0%B5%D0%B9%D1%81%D1%8B%20G8-2024-08-23.pdf) 
+[Результат тестового прогона 24.08.2024 в PDF-формате](https://github.com/asavv1n/docs/blob/b3e923c173dc45cfc037f8e2a4ac994a3d8ee2dc/G8-Test%2Brun%2B2024_08_24.pdf) 
